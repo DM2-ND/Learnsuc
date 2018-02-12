@@ -1,0 +1,94 @@
+42C7B402	WSDM	Web Search and Data Mining
+42CB1F93	ICMLC	International Conference on Machine Learning and Cybernetics
+42D493FC	ICASSP	International Conference on Acoustics, Speech, and Signal Processing
+42F91B89	MMM	Conference on Multimedia Modeling
+43001016	ECCV	European Conference on Computer Vision
+4309C535	ICWSM	International Conference on Weblogs and Social Media
+432251B5	ICME	International Conference on Multimedia and Expo
+43319DD4	NIPS	Neural Information Processing Systems
+433BF259	DaWaK	Data Warehousing and Knowledge Discovery
+433F0094	WISE	Web Information Systems Engineering
+436976F3	KDD	Knowledge Discovery and Data Mining
+4372EE76	ICPR	International Conference on Pattern Recognition
+43820346	EDBT	Extending Database Technology
+4390334E	VLDB	Very Large Data Bases
+4397F0B8	MDM	Mobile Data Management
+4399020E	ICSC	International Conference on Semantic Computing
+439B9AD2	ICIC	International Conference on Intelligent Computing
+439BCE5E	RecSys	Conference on Recommender Systems
+43AA5802	MM	ACM Multimedia
+43ABF249	WWW	International World Wide Web Conferences
+43AEF2F9	Pervasive	International Conference on Pervasive Computing
+43CF4565	CLOUD	International Conference on Cloud Computing
+43DF0F6B	ICMLA	International Conference on Machine Learning and Applications
+43F44683	APWeb	Asia-Pacific Web Conference
+43F65246	ICIS	International Conference on Information Systems
+43F9E08E	IJCNN	International Joint Conference on Neural Network
+43FD776C	SIGIR	International ACM SIGIR Conference on Research and Development in Information Retrieval
+4401AFCF	IIS	Intelligent Information Systems
+440E04A9	PKDD	European Conference on Principles of Data Mining and Knowledge Discovery
+441CE122	SDM	SIAM International Conference on Data Mining
+442BD7CD	INFOCOM	International Conference on Computer Communications
+4459102E	PCM	Pacific Rim Conference on Multimedia
+448AC690	CIVR	Conference on Image and Video Retrieval
+448D1E7E	ICDAR	International Conference on Document Analysis and Recognition
+449397C9	ISMIS	International Syposium on Methodologies for Intelligent Systems
+449D545A	ICAC	International Conference on Autonomic Computing
+44ACBCB7	ACML	Asian Conference on Machine Learning
+44C0EC29	ICTAI	International Conference on Tools with Artificial Intelligence
+44DF880B	MVA	Machine Vision Applications
+44E12FD1	ISWC	International Semantic Web Conference
+44E8D4B3	SSDBM	Statistical and Scientific Database Management
+44F01D7B	CLEF	Cross-Language Evaluation Forum
+45083D2F	CVPR	Computer Vision and Pattern Recognition
+451916EF	FCST	Frontier of Computer Science and Technology
+4539ED1E	ISNN	International Symposium on Neural Networks
+4558D729	CHI	Human Factors in Computing Systems
+45610CDA	ICDE	International Conference on Data Engineering
+4566232D	SIGGRAPH	International Conference on Computer Graphics and Interactive Techniques
+4569270C	HICSS	Hawaii International Conference on System Sciences
+45701BF3	ICCV	International Conference on Computer Vision
+45835902	CBMS	Computer-Based Medical Systems
+45A1082E	MMEDIA	Advances in Multimedia
+45A68B5F	ICDKE	Data and Knowledge Engineering
+45B176DF	JCDL	ACM/IEEE Joint Conference on Digital Libraries
+45B7D2EB	COLING	International Conference on Computational Linguistics
+45BD7739	CSB	Computational Systems Bioinformatics
+45C7663C	SMC	Systems, Man and Cybernetics
+45E5BC3F	CIS	Computational Intelligence and Security
+45F282AE	WAIM	Web-Age Information Management
+45F914AD	NAACL	North American Chapter of the Association for Computational Linguistics
+45FD9DD4	PRICAI	Pacific Rim International Conference on Artificial Intelligence
+4607C954	EC	Electronic Commerce
+460A7036	SIGMOD	International Conference on Management of Data
+46202E57	ER	International Conference on Conceptual Modeling
+462C0072	CSE	Computational Science and Engineering
+46396AE3	MLG	Mining and Learning with Graphs
+463BD859	PAKDD	Pacific-Asia Conference on Knowledge Discovery and Data Mining
+465D33C1	ECIR	European Conference on Information Retrieval
+465F7C62	ICML	International Conference on Machine Learning
+4665AEAE	FSKD	Fuzzy Systems and Knowledge Discovery
+466797C4	CollaborateCom	Collaborative Computing
+46789D3E	DSS	Decision Support Systems
+467F57A2	AIRS	Asia Information Retrieval Symposium
+468A7487	ICDM	International Conference on Data Mining
+468C0299	ICONIP	International Conference on Neural Information Processing
+469407EC	ADMA	Advanced Data Mining and Applications
+4694B652	PODS	Symposium on Principles of Database Systems
+469D149A	DASFAA	Database Systems for Advanced Applications
+46A05BB0	AAAI	National Conference on Artificial Intelligence
+46B8FFD4	ADC	Australasian Database Conference
+46C2A057	DSN	Dependable Systems and Networks
+46DAB993	ACL	Meeting of the Association for Computational Linguistics
+46E77C12	SITIS	Signal-Image Technology and Internet-Based Systems
+46F58A2E	MIR	Multimedia Information Retrieval
+47167ADC	EMNLP	Empirical Methods in Natural Language Processing
+472C6E2D	CIKM	Conference on Information and Knowledge Management
+47313E98	ASONAM	Advances in Social Networks Analysis and Mining
+4761B1FF	ASWC	Asian Semantic Web Conference
+4786A6E3	ILP	Inductive Logic Programming
+478794CB	WI	Web Intelligence
+4799A10B	IDA	Intelligent Data Analysis
+47A823DD	ICWS	International Conference on Web Services
+47C39427	IJCAI	International Joint Conference on Artificial Intelligence
+47CCD465	UAI	Uncertainty in Artificial Intelligence
