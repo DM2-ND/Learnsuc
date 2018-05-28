@@ -36,6 +36,6 @@ Two examples are included in train.sh
 
 ## Miscellaneous
 
-Authors: Daheng Wang, Meng Jiang, Qingkai Zeng, Zachary Eberhart, Nitesh Chawla
+Authors: Daheng Wang, Meng Jiang, Qingkai Zeng, Zachary Eberhart, Nitesh V. Chawla
 
 For more information, please see the original paper.

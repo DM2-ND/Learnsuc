@@ -1,9 +1,9 @@
 # learnsuc
 Multi-Type Itemset Embedding for Learning Behavior Success
 
-Submitted to ACM SIGKDD 2018
+Accepted by ACM SIGKDD 2018
 
-Authors: Daheng Wang, Meng Jiang, Qingkai Zeng, Zachary Eberhart, Nitesh Chawla
+Authors: Daheng Wang, Meng Jiang, Qingkai Zeng, Zachary Eberhart, Nitesh V. Chawla
 
 Emails: {dwang8, mjiang2, qzeng, zeberhar, nchawla}@nd.edu
 
