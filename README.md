@@ -1,7 +1,7 @@
 # Multi-Type Itemset Embedding for Learning Behavior Success
 
 ## About
-This is the efficiency implementation of LearnSUC in C++.
+This repository contains the C++ efficiency implementation of LearnSUC model proposed in the paper _Multi Type Itemset Embedding for Learning Behavior Success_ accepted by KDD18.
 
 ## Usage
 ### 1. Make
