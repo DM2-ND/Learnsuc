@@ -1,7 +1,7 @@
 # Multi-Type Itemset Embedding for Learning Behavior Success
 
 ## About
-This repository contains the C++ efficiency implementation of LearnSUC model proposed in the paper _Multi-Type Itemset Embedding for Learning Behavior Success_ accepted by **KDD18**.
+This repository contains the C++ efficiency implementation of LearnSUC model proposed in the paper [Multi-Type Itemset Embedding for Learning Behavior Success](http://www.meng-jiang.com/pubs/learnsuc-kdd18/learnsuc-kdd18-paper.pdf) accepted by **KDD18**.
 
 ## Usage
 ### 1. Make
@@ -53,4 +53,13 @@ Other examples are provided in the `./train.sh` file.
 **Address**: University of Notre Dame, Notre Dame, Indiana, 46556, USA\
 **Contact**: {dwang8,mjiang2,qzeng,zeberhar,nchawla}@nd.edu
 
-If you find this code package to be useful, please consider cite the original paper: Multi-Type Itemset Embedding for Learning Behavior Success.
+If you find this code package to be useful, please consider cite us:
+```
+@inproceedings{wang2018multi,
+  title={Multi-type itemset embedding for learning behavior success},
+  author={Wang, Daheng and Jiang, Meng and Zeng, Qingkai and Eberhart, Zachary and Chawla, Nitesh V},
+  booktitle={Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages={2397--2406},
+  year={2018}
+}
+```
